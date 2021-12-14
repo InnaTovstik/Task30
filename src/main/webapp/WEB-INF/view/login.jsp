@@ -1,8 +1,8 @@
 <html>
 <body>
     <form action ="#" method="POST">
-        First name <input type="text" name="user_first_name" required style="margin bottom: 40px">
-        <p>Last name <input type="text" name="user_last_name" required style="margin bottom: 40px"></p>
+        First name <input type="text" name="user_first_name" style="margin bottom: 40px">
+        <p>Last name <input type="text" name="user_last_name" style="margin bottom: 40px"></p>
         <p>Gender</p>
             <input type="radio" name="user_gender" value = "male"> male
             <input type="radio" name="user_gender" value = "female"> female
